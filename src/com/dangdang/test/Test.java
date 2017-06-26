@@ -16,6 +16,8 @@ public class Test {
 		Test test = new Test();
 		test.test1();
 		test.test2();
+		test.test2();
+
 	}
 
 }
